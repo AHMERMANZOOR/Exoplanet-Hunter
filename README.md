@@ -48,10 +48,6 @@ An intelligent machine learning system that classifies celestial objects as **Co
 - Star Gravity (log g)
 - Signal-to-Noise Ratio
 
-## 🚀 Live Demo
-
-**[Click here to try the NASA Exoplanet Hunter](https://your-app-link.streamlit.app)**
-
 ## 🏗 Local Development
 
 ```bash
@@ -63,3 +59,4 @@ pip install -r requirements.txt
 
 # Run locally
 streamlit run app.py
+
